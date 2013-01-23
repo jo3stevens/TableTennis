@@ -1,0 +1,11 @@
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\obj\Debug\RoundRobin.Core.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\RoundRobin.Core.dll
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\RoundRobin.Core.pdb
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\MongoDB.Bson.dll
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\MongoDB.Driver.dll
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\MongoDB.Bson.pdb
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\MongoDB.Bson.xml
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\MongoDB.Driver.pdb
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\bin\Debug\MongoDB.Driver.xml
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\obj\Debug\RoundRobin.Core.dll
+c:\users\joe\documents\visual studio 2012\Projects\RoundRobin\RoundRobin.Core\obj\Debug\RoundRobin.Core.pdb

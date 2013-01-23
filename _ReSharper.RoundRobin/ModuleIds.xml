@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="548D2043-B078-483B-A542-92C519315750" ModuleId="RoundRobin.Core" />
+  <Module PersistentId="B7339DCF-06DE-44E6-8C01-C8303A549E87" ModuleId="RoundRobin.Web" />
+  <Module PersistentId="E254B1E9-B0E4-4EEE-8C89-20ACB33BB386" ModuleId="MvcApplication1" />
+</Modules>

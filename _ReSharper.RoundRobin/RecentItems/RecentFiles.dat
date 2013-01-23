@@ -1,0 +1,50 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Domain/f:Player.cs" caret="38" fromTop="0" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/f:Web.config" caret="0" fromTop="0" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Controllers/f:HomeController.cs" caret="751" fromTop="25" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/f:Global.asax.cs" caret="746" fromTop="22" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Models/d:Home/f:RegisterViewModel.cs" caret="595" fromTop="25" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Models/d:Home/f:LoginViewModel.cs" caret="133" fromTop="6" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:css/f:bootstrap.css" caret="0" fromTop="0" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:css/f:bootstrap-responsive.css" caret="0" fromTop="0" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Service/d:Abstract/f:BaseService.cs" caret="464" fromTop="16" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Service/f:PlayerService.cs" caret="400" fromTop="14" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Service/d:Interface/f:IPlayerService.cs" caret="207" fromTop="8" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Domain/d:Abstract/f:Auditable.cs" caret="250" fromTop="10" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Domain/d:Interface/f:IEntity.cs" caret="205" fromTop="9" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/f:Web.config" caret="543" fromTop="13" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:App_Start/f:BundleConfig.cs" caret="472" fromTop="11" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:jquery.validate-vsdoc.js" caret="24670" fromTop="15" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:jquery-1.7.1.js" caret="21467" fromTop="20" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Home/f:Register.cshtml" caret="367" fromTop="11" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Shared/f:_Layout.cshtml" caret="451" fromTop="2" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Home/f:Login.cshtml" caret="56" fromTop="3" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Home/f:Index.cshtml" caret="69" fromTop="6" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:jquery.validate.js" caret="19103" fromTop="16" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:jquery.validate.unobtrusive.js" caret="0" fromTop="0" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:custom.js" caret="816" fromTop="17" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Helper/d:Mongo/f:DBHelper.cs" caret="238" fromTop="10" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/f:Web.config" caret="1195" fromTop="17" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Home/f:Index.cshtml" caret="69" fromTop="6" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Service/f:PlayerService.cs" caret="389" fromTop="13" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Domain/f:Player.cs" caret="38" fromTop="0" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Service/d:Interface/f:IPlayerService.cs" caret="195" fromTop="8" />
+    <File id="548D2043-B078-483B-A542-92C519315750/d:Service/d:Abstract/f:BaseService.cs" caret="436" fromTop="15" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Home/f:Login.cshtml" caret="109" fromTop="6" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/f:Global.asax.cs" caret="746" fromTop="22" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Models/d:Home/f:LoginViewModel.cs" caret="297" fromTop="13" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Models/d:Home/f:RegisterViewModel.cs" caret="434" fromTop="18" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Controllers/f:HomeController.cs" caret="774" fromTop="25" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/f:Web.config" caret="543" fromTop="13" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:App_Start/f:BundleConfig.cs" caret="472" fromTop="9" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:jquery.validate.js" caret="19174" fromTop="17" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:jquery.validate.unobtrusive.js" caret="4283" fromTop="14" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Home/f:Register.cshtml" caret="457" fromTop="2" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Views/d:Shared/f:_Layout.cshtml" caret="451" fromTop="2" />
+    <File id="B7339DCF-06DE-44E6-8C01-C8303A549E87/d:Content/d:js/f:custom.js" caret="811" fromTop="16" />
+  </RecentEdits>
+</RecentFiles>

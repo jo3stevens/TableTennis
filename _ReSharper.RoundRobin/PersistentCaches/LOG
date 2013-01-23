@@ -1,0 +1,13 @@
+2013/01/23-07:56:57.903 1fbc Recovering log #12
+2013/01/23-07:56:57.919 1fbc Level-0 table #14: started
+2013/01/23-07:56:58.044 1fbc Level-0 table #14: 40847 bytes OK
+2013/01/23-07:56:58.137 1fbc Delete type=0 #12
+2013/01/23-07:56:58.137 1fbc Delete type=3 #10
+2013/01/23-07:56:58.137 173c Compacting 4@0 + 0@1 files
+2013/01/23-07:56:58.481 173c Generated table #16: 552 keys, 186408 bytes
+2013/01/23-07:56:58.481 173c Compacted 4@0 + 0@1 files => 186408 bytes
+2013/01/23-07:56:58.527 173c Delete type=2 #5
+2013/01/23-07:56:58.527 173c Delete type=2 #8
+2013/01/23-07:56:58.527 173c Delete type=2 #11
+2013/01/23-07:56:58.527 173c Delete type=2 #14
+2013/01/23-07:56:58.527 173c compacted to: files[ 0 1 0 0 0 0 0 ]
